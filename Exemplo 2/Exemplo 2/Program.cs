@@ -21,6 +21,6 @@ namespace Exemplo_2
             r = n1 + n2;
             Console.WriteLine("O Resultado é: " + r);
             Console.ReadKey();
-        }//FIm
+        }//Fim
     }
 }
