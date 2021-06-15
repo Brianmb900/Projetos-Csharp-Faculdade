@@ -30,6 +30,7 @@ namespace Projetinho_console_1
                         rso = n1 + n2;
                         Console.WriteLine("O resultado da soma é: " + rso);
                         break;
+
                     case 2:
                         Console.WriteLine("Digite 2 números para subtrair");
                         Console.WriteLine("Digite o 1º");
@@ -39,6 +40,7 @@ namespace Projetinho_console_1
                         rsu = n1 - n2;
                         Console.WriteLine("O resultado da soma é: " + rsu);
                         break;
+
                     case 3:
                         Console.WriteLine("Digite 2 números para multiplicar");
                         Console.WriteLine("Digite o 1º");
@@ -48,6 +50,7 @@ namespace Projetinho_console_1
                         rm = n1 * n2;
                         Console.WriteLine("O resultado da soma é: " + rm);
                         break;
+
                     case 4:
                         Console.WriteLine("Digite 2 números para dividir");
                         Console.WriteLine("Digite o 1º");
