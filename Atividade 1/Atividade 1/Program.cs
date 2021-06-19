@@ -12,10 +12,10 @@ namespace Atividade_1
         {//Inícip
             //#Desenvolvido por Brian Melinski BIanchini 15.06.2021
 
-            String n;
+            string n;
             Console.WriteLine("Escreva seu nome");
-            n = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("Seja bem vindo " + n);
+            n =  Console.ReadLine();//Não precisa do Convert pois tudo digitado no console é texto
+            Console.WriteLine("Seja bem vindo(a) " + n);
             Console.ReadKey();
 
         }//Fim
