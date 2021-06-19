@@ -13,12 +13,12 @@ namespace Projetinho_console_1
             //#Desenvolvedor Brian Melinski Bianchini 15.06.2021
 
             double n1, n2, rso, rsu, rm, rd;
-            Int16 o, d;
+            int o, d;
             Console.WriteLine("Calculadora V1.0");
             do
             {
                 Console.WriteLine("Digite 1-Soma, 2-Subtração, 3-Multiplicação, 4-Divisão");
-                o = Convert.ToInt16(Console.ReadLine());
+                o = Convert.ToInt32(Console.ReadLine());
                 switch (o)
                 {
                     case 1:
@@ -62,7 +62,7 @@ namespace Projetinho_console_1
                         break;
                 }
                 Console.WriteLine("Para continuar usando a calculadora digite 1, para sair digite 0");
-                d = Convert.ToInt16(Console.ReadLine());
+                d = Convert.ToInt32(Console.ReadLine());
             }
             while (d == 1);
         }//Fim
