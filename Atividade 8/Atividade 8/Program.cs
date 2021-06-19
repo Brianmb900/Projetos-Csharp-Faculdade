@@ -23,7 +23,7 @@ namespace Atividade_8
             n1 = n1 * 2;
             n2 = n2 * 3;
             n3 = n3 * 5;
-            m = (n1 + n2 + n3) / 3;
+            m = (n1 + n2 + n3) / 10;
             Console.WriteLine("A média do aluno é: " + m);
             Console.ReadKey();
 
