@@ -1,6 +1,0 @@
-C:\Users\brian\Downloads\Aula 3\Exemplo 1\Exemplo 1\Console App Exemplo 1\bin\Debug\Console App Exemplo 1.exe.config
-C:\Users\brian\Downloads\Aula 3\Exemplo 1\Exemplo 1\Console App Exemplo 1\bin\Debug\Console App Exemplo 1.exe
-C:\Users\brian\Downloads\Aula 3\Exemplo 1\Exemplo 1\Console App Exemplo 1\bin\Debug\Console App Exemplo 1.pdb
-C:\Users\brian\Downloads\Aula 3\Exemplo 1\Exemplo 1\Console App Exemplo 1\obj\Debug\Console App Exemplo 1.csproj.CoreCompileInputs.cache
-C:\Users\brian\Downloads\Aula 3\Exemplo 1\Exemplo 1\Console App Exemplo 1\obj\Debug\Console App Exemplo 1.exe
-C:\Users\brian\Downloads\Aula 3\Exemplo 1\Exemplo 1\Console App Exemplo 1\obj\Debug\Console App Exemplo 1.pdb
