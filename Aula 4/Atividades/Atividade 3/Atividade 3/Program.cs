@@ -11,6 +11,7 @@ namespace Atividade_3
         static void Main(string[] args)
         {//Início
             //# Desenvolvedor Brian Melinski Bianchini 20.06.2021
+
             string n, pn, ao, ns, s;
             int le, le2, l1, lc, u;
             Console.WriteLine("Digite seu nome completo");
