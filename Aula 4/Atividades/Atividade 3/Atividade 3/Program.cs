@@ -29,6 +29,7 @@ namespace Atividade_3
             Console.WriteLine($"O pedaço do nome do caractere 5 ao 10 é:{pn}");
             Console.WriteLine($"A substituição de a por o é:{ao}");
             Console.ReadKey();
+
             //Versão do professor
             /*
             string completo, sobrenome, nome, parte, troca, email;
