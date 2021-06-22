@@ -31,7 +31,7 @@ namespace Atividade_3
             Console.ReadKey();
             //Versão do professor
             /*
-            string completo, sobrenome, nome, parte, troca;
+            string completo, sobrenome, nome, parte, troca, email;
             Console.WriteLine("Entrar com o nome completo: ");
             completo = Console.ReadLine();
             Console.WriteLine("Nome completo: " + completo);
@@ -45,6 +45,8 @@ namespace Atividade_3
             Console.WriteLine("Corte: " + parte);
             troca = completo.Replace("a","o");
             Console.WriteLine("Troca: " + troca);
+            email = nome + "@fatec.sp.gov.br";
+            Console.WriteLine("Email: " + email);
             Console.ReadKey();
             */
         }//Fim
