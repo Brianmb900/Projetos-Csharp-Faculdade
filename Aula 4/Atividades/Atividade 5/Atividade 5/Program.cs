@@ -11,6 +11,7 @@ namespace Atividade_5
         static void Main(string[] args)
         {//Início
             //# Desenvolvedor Brian Melinski Bianchini 20.06.2021
+
             string n, ns, s, e, ens;
             int le, le2, l1, lc, u;
             Console.WriteLine("Digite seu nome completo");
@@ -29,6 +30,7 @@ namespace Atividade_5
             ens = ens.Replace("nome", ns);
             Console.WriteLine($"Seu e-mail institucional é:{ens}");
             Console.ReadLine();
+
         }//Fim
     }
 }
