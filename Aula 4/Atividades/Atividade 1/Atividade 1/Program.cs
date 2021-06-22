@@ -14,7 +14,7 @@ namespace Atividade_1
 
             double R, r;
             Console.WriteLine("Programa para calcular a área, diâmetro e perítetro de um círculo.");
-            Console.WriteLine("Insira o raio para fazer os calculos");
+            Console.Write("Insira o raio para fazer os calculos: ");
             R = Convert.ToDouble(Console.ReadLine());
             r = Math.PI * Math.Pow(R, 2);
             Console.WriteLine($"O valor da área é: {r}");
