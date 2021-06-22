@@ -20,8 +20,8 @@ namespace Atividade_2
             Console.Write("Insira o valor de c: ");
             c = Convert.ToDouble(Console.ReadLine());
             d = Math.Sqrt((Math.Pow(b, 2)) - (4 * a * c));
-            x1 = ((-1 * b) + d) / (2 * a);
-            x2 = ((-1 * b) - d) / (2 * a);
+            x1 = (-b + d) / (2 * a);
+            x2 = (-b - d) / (2 * a);
             Console.WriteLine($"Os valores de x1 e x2 são: {x1} e {x2}");
             Console.ReadKey();
 
