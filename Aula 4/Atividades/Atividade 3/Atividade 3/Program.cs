@@ -28,7 +28,25 @@ namespace Atividade_3
             Console.WriteLine($"Sobrenome:{s}");
             Console.WriteLine($"O pedaço do nome do caractere 5 ao 10 é:{pn}");
             Console.WriteLine($"A substituição de a por o é:{ao}");
-            Console.ReadLine();
+            Console.ReadKey();
+            //Versão do professor
+            /*
+            string completo, sobrenome, nome, parte, troca;
+            Console.WriteLine("Entrar com o nome completo: ");
+            completo = Console.ReadLine();
+            Console.WriteLine("Nome completo: " + completo);
+            int pos = completo.IndexOff(" ");
+            Console.WriteLine("Posição espaço: " + pos);
+            nome = completo.Substring(0,pos);
+            sobrenome = completo.Substring(pos);
+            Console.WriteLine("Nome: " + nome);
+            Console.WriteLine("Sobrenome: " + sobrenome);
+            parte = completo.Substring(5,10);
+            Console.WriteLine("Corte: " + parte);
+            troca = completo.Replace("a","o");
+            Console.WriteLine("Troca: " + troca);
+            Console.ReadKey();
+            */
         }//Fim
     }
 }
