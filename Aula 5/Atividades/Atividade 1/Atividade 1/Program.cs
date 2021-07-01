@@ -16,6 +16,7 @@ namespace Atividade_1
             Console.BackgroundColor = ConsoleColor.White;
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.SetCursorPosition(20, 2);
             Console.WriteLine("╔══════════════════════════════════════════════════════════════════════╗");
             for (int i =3; i < 10; i++)
