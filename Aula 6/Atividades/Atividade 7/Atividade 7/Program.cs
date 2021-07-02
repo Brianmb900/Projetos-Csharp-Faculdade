@@ -35,10 +35,10 @@ namespace Atividade_7
                 Console.WriteLine("Calculadora de Aumentos");
                 Console.SetCursorPosition(11, 5);
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("1-Gerente, 2-Analista, 3-Técnico, 4-Não está na lista");
-                Console.SetCursorPosition(66, 5);
+                Console.WriteLine("1-Gerente, 2-Analista, 3-Técnico, 4-Nenhum do anteriores");
+                Console.SetCursorPosition(69, 5);
                 Console.WriteLine("[ ]");
-                Console.SetCursorPosition(67, 5);
+                Console.SetCursorPosition(70, 5);
                 o = Convert.ToInt32(Console.ReadLine());
                 Console.SetCursorPosition(11, 7);
                 switch (o)
