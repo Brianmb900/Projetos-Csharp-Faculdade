@@ -51,7 +51,7 @@ namespace Atividade_7
                         sa = Math.Round(s + (s * 0.10), 2);
                         ds = sa - s;
                         Console.SetCursorPosition(11, 11);
-                        Console.Write($"A diferença entre seu novo saláraio e o antiog é {ds} ");
+                        Console.Write($"A diferença entre seu novo saláraio e o antigo é {ds} ");
                         Console.SetCursorPosition(11, 13);
                         Console.WriteLine($"Seu salário novo é {sa}");
                         break;
@@ -64,7 +64,7 @@ namespace Atividade_7
                         sa = Math.Round(s + (s * 0.20),2);
                         ds = sa - s;
                         Console.SetCursorPosition(11, 11);
-                        Console.Write($"A diferença entre seu novo saláraio e o antiog é {ds} ");
+                        Console.Write($"A diferença entre seu novo saláraio e o antigo é {ds} ");
                         Console.SetCursorPosition(11, 13);
                         Console.WriteLine($"Seu salário novo é {sa}");
                         break;
@@ -77,7 +77,7 @@ namespace Atividade_7
                         sa = Math.Round(s + (s * 0.30), 2);
                         ds = sa - s;
                         Console.SetCursorPosition(11, 11);
-                        Console.Write($"A diferença entre seu novo saláraio e o antiog é {ds} ");
+                        Console.Write($"A diferença entre seu novo saláraio e o antigo é {ds} ");
                         Console.SetCursorPosition(11, 13);
                         Console.WriteLine($"Seu salário novo é {sa}");
                         break;
@@ -90,7 +90,7 @@ namespace Atividade_7
                         sa = Math.Round(s + (s * 0.40), 2);
                         ds = sa - s;
                         Console.SetCursorPosition(11, 11);
-                        Console.Write($"A diferença entre seu novo saláraio e o antiog é {ds} ");
+                        Console.Write($"A diferença entre seu novo saláraio e o antigo é {ds} ");
                         Console.SetCursorPosition(11, 13);
                         Console.WriteLine($"Seu salário novo é {sa}");
                         break;
